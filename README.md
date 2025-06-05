@@ -5,9 +5,6 @@ This repository contains Jupyter notebooks for the study:
 **"Deep Brain Phenotyping for Metabolic-Bariatric Surgery: An AI-Powered fMRI Approach to Advance Prediction of Treatment Success"**  
 Falkowski et al., 2025
 
-## Project Overview
-
-Metabolic-bariatric surgery (MBS) is effective for obesity, but predicting patient response remains challenging. This project explores whether preoperative resting-state fMRI can improve such prediction using machine learning.
 
 ### Key elements:
 - 5 ML algorithms: Logistic Regression, SVM, Random Forest, XGBoost, and MLP
