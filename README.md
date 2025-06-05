@@ -10,7 +10,6 @@ Falkowski et al., 2025
 Metabolic-bariatric surgery (MBS) is effective for obesity, but predicting patient response remains challenging. This project explores whether preoperative resting-state fMRI can improve such prediction using machine learning.
 
 ### Key elements:
-- Functional connectivity, ALFF/fALFF/ReHo measures, and clinical data
 - 5 ML algorithms: Logistic Regression, SVM, Random Forest, XGBoost, and MLP
 - Nested Leave-One-Out Cross-Validation
 - SHAP analysis for model interpretability
